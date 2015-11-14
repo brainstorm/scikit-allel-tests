@@ -1,8 +1,0 @@
-name: Scikit-allel demo
-dependencies:
-  - numpy
-  - scikit-allel
-  - matplotlib
-  - h5py
-  - seaborn
-

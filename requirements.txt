@@ -1,0 +1,5 @@
+numpy
+scikit-allel
+matplotlib
+h5py
+seaborn
