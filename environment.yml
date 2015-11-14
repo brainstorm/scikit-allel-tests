@@ -1,6 +1,4 @@
 name: Scikit-allel demo
-channels:
-  - scikit-allel
 dependencies:
   - numpy
   - scikit-allel
