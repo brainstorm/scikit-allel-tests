@@ -1,0 +1,10 @@
+name: Scikit-allel demo
+channels:
+  - scikit-allel
+dependencies:
+  - numpy
+  - scikit-allel
+  - matplotlib
+  - h5py
+  - seaborn
+
