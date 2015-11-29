@@ -1,4 +1,8 @@
 numpy
+numexpr
+petl
+cython
+vcfnp
 scikit-allel
 matplotlib
 h5py
